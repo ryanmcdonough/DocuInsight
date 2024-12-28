@@ -8,7 +8,11 @@ An interactive tool designed to process and analyse documents of various types, 
 - **AI-Enhanced Image Descriptions**: Integrate GPT-4o for deeper analysis (optional)  
 - **User-Friendly Interface**: Built with Streamlit for straightforward build  
 - **Export Options**: Save text outputs for offline reference  
-- **Temporary File Management**: Uploaded files are processed securely and removed upon completion  
+- **Temporary File Management**: Uploaded files are processed securely and removed upon completion
+
+## Try it out
+
+You can access a hosted version of this here: https://docuinsight.streamlit.app - you will need to provide your own OpenAI key to use the Enhanced AI mode.
 
 ## Getting Started
 
