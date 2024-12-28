@@ -1,0 +1,7 @@
+streamlit==1.41.1
+pdfplumber==0.11.4
+requests==2.32.3
+pillow==11.0.0
+python-dotenv==1.0.1
+openai==1.58.1
+markitdown
